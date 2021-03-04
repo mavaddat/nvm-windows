@@ -3,7 +3,7 @@
 #define MyAppLCShortName "nvm"
 #define MyAppVersion ""
 #define MyAppPublisher "Ecor Ventures LLC"
-#define MyAppURL "https://github.com/coreybutler/nvm-windows"
+#define MyAppURL "https://github.com/mavaddat/nvm-windows"
 #define MyAppExeName "nvm.exe"
 #define MyIcon "bin\nodejs.ico"
 #define ProjectRoot "."

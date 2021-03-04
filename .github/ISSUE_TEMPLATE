@@ -1,4 +1,4 @@
-Make sure you have reviewed the [common issues](https://github.com/coreybutler/nvm-windows/wiki/Common-Issues) and existing issues before submitting a new issue.
+Make sure you have reviewed the [common issues](https://github.com/mavaddat/nvm-windows/wiki/Common-Issues) and existing issues before submitting a new issue.
 
 If this is a question about how to use NVM4W, please use [stackoverflow](http://stackoverflow.com/questions/tagged/nvm-windows) instead.
 
@@ -24,10 +24,10 @@ Run `nvm version` if you don't know.
 ### I have already...
 
 - [ ] read the README to be aware of npm gotchas & antivirus issues.
-- [ ] reviewed the [wiki](https://github.com/coreybutler/nvm-windows/wiki) to make sure my issue hasn't already been resolved.
+- [ ] reviewed the [wiki](https://github.com/mavaddat/nvm-windows/wiki) to make sure my issue hasn't already been resolved.
 - [ ] verified I'm using an account with administrative privileges.
 - [ ] searched the issues (open and closed) to make sure this isn't a duplicate.
-- [ ] made sure this isn't a question about how to use NVM for Windows, since [gitter](https://gitter.im/coreybutler/nvm-windows?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) is used for questions and comments.
+- [ ] made sure this isn't a question about how to use NVM for Windows, since [gitter](https://gitter.im/mavaddat/nvm-windows?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) is used for questions and comments.
 
 ### My issue is related to (check only those which apply):
 
@@ -40,12 +40,12 @@ Run `nvm version` if you don't know.
 
 ### Expected Behavior
 
-Fill me in...
+<!-- What did you want to happen? -->
 
 ### Actual Behavior
 
-Fill me in...
+<!-- What did you actually observe happen? -->
 
 ### Steps to reproduce the problem:
 
-Fill me in...
+<!-- How did you create or, alternatively, how would you re-create the problem? -->

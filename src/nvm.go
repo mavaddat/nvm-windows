@@ -456,7 +456,7 @@ func list(listtype string) {
     listtype = "installed"
   }
   if listtype != "installed" && listtype != "available" {
-    fmt.Println("\nInvalid list option.\n\nPlease use on of the following\n  - nvm list\n  - nvm list installed\n  - nvm list available")
+    fmt.Println("\nInvalid list option.\n\nPlease use one of the following\n  - nvm list\n  - nvm list installed\n  - nvm list available")
     help()
     return
   }

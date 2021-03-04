@@ -1,3 +1,5 @@
+# Contribution Guidelines
+
 ## Before you submit an issue&hellip;
 
 There have been a lot of duplicate issues filed. Please do a simple search for your issue before posting something new.
